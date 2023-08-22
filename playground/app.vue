@@ -1,8 +1,14 @@
+<script setup>
+function click () {
+  console.log('click');
+}
+</script>
 <template>
   <div>
-    Nuxt module playground!
+    <CpButton @click="click">
+      tes3t
+    </CpButton>
   </div>
 </template>
 
-<script setup>
-</script>
+
