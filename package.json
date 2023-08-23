@@ -1,6 +1,6 @@
 {
   "name": "nuxt-carbon-panda",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "IBM carbon design system for Nuxt 3. Built with Panda CSS.",
   "repository": "freefund-network/nuxt-carbon-panda",
   "license": "MIT",
